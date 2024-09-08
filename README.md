@@ -1,34 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Animation 🎨✨
 
-## Getting Started
+**PortfolioAnimation** is a visually engaging portfolio website built with modern web technologies, focusing on stunning animations and smooth user interactions. This project is designed to showcase your work in a dynamic and interactive way, leaving a lasting impression on visitors.
 
-First, run the development server:
+![Portfolio2-cover](https://github.com/user-attachments/assets/c7bcc0ba-abda-403e-b39e-3d86e915dc34)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features 🚀
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Interactive Animations**: Smooth transitions and interactive elements powered by Framer Motion and CSS animations.
+- **Responsive Design**: Optimized for all devices, ensuring a seamless experience on desktop, tablet, and mobile.
+- **Clean Codebase**: Written in **React** with a modular and scalable architecture.
+- **Performance Optimized**: Lightweight and fast-loading, providing a great user experience.
+- **Customizable Layout**: Easily modify sections and styles to suit your unique portfolio needs.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Technologies Used 💻
 
-## Learn More
+- **React**
+- **Framer Motion**
+- **CSS3**
+- **JavaScript (ES6+)**
 
-To learn more about Next.js, take a look at the following resources:
+## Live View 🌐
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out the live version of this project [here](https://developerammaryasser.github.io/portfolioAnimation/).
