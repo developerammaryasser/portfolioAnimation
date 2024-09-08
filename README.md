@@ -22,4 +22,4 @@
 
 ## Live View 🌐
 
-Check out the live version of this project [here](https://developerammaryasser.github.io/portfolioAnimation/).
+Check out the live version of this project [[here](https://ammarportfolio2.vercel.app/)].
