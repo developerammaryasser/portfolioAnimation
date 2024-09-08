@@ -15,7 +15,7 @@
 
 ## Technologies Used 💻
 
-- **React**
+- **Next.js (React)**
 - **Framer Motion**
 - **CSS3**
 - **JavaScript (ES6+)**
